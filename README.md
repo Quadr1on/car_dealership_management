@@ -79,8 +79,8 @@ The system uses MySQL database with the following main fields:
     1. mysql-connector-python
     2. matplotlib
     3. tabulate
-3. create a Schema/database called "cars"
-4. install the given datasets through mysql workbench
+3. Create a Schema/database called "cars"
+4. Install the given datasets through MySQL workbench
 5. Configure database connection parameters in the script
 6. Run the main script to start the application
 
