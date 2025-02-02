@@ -2,7 +2,7 @@ import mysql.connector as m
 from tabulate import tabulate
 
 # to create a connection with the MySQL server
-con = m.connect(host="localhost", user="root", passwd="@doRn1010", database="cars")
+con = m.connect(host="localhost", user="root", passwd="your_pasword", database="cars")
 cur = con.cursor()
 
 # Main functions
