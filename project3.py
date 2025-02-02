@@ -6,7 +6,7 @@ from table import tabulate
 import pickle
 
 # to create a connection with the MySQL server
-con = m.connect(host="localhost", user="root", passwd="@doRn1010", database="cars")
+con = m.connect(host="localhost", user="root", passwd="your_password", database="cars")
 cur = con.cursor()
 
 def Admin():
